@@ -14,21 +14,22 @@ Dự án này chứa các mã nguồn và bài tập cho môn học **MDS (Machi
 | **Utilities** | `joblib`, `pathlib`, `gensim` |
 
 ---
-## 2. Yêu cầu hệ thống
+## 2 Cài đặt & Chạy dự án
+### Yêu cầu hệ thống
 - Python 3.9+ (Khuyên dùng 3.10)
 - Trình quản lý gói `pip`
 
-## 3. Thiết lập môi trường ảo (venv)
+### Thiết lập môi trường 
 
-### Bước 1: Tạo môi trường ảo
+1. Bước 1: Tạo môi trường ảo
 Mở Terminal tại thư mục dự án và chạy:
 ```bash
 python -m venv .venv
 ```
-### Bước 2: Kích hoạt môi trường
+2. Bước 2: Kích hoạt môi trường
 - **Windows (PowerShell):**
 ```
-.\.venv\Scripts\Activate.ps1
+.\.venv\Scripts\Activate
 ```
 - **Windows (Command Prompt):**
 ```cmd
@@ -39,7 +40,7 @@ python -m venv .venv
  source .venv/bin/activate 
 ```
 
-### Bước 3: Cài đặt các thư viện cần thiết
+3. Bước 3: Cài đặt các thư viện cần thiết
 Cài đặt toàn bộ danh sách thư viện từ file `requirements.txt`:
 ```bash
 pip install -r requirements.txt
