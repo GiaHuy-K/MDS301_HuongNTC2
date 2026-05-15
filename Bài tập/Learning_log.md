@@ -6,7 +6,7 @@
 
 ## Ensemble
 ### Link: 
-[Viblo](https://viblo.asia/p/ensemble-learning-va-cac-bien-the-p1-WAyK80AkKxX) 
-[Towardsdatascience](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
-[machinelearningmastery]https://machinelearningmastery.com/implement-bagging-scratch-python/
-[github]https://svcuonghvktqs.github.io/data-science/ensemble-learning
+- [Viblo](https://viblo.asia/p/ensemble-learning-va-cac-bien-the-p1-WAyK80AkKxX) 
+- [Towardsdatascience](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
+- [machinelearningmastery](https://machinelearningmastery.com/implement-bagging-scratch-python/)
+- [github](https://svcuonghvktqs.github.io/data-science/ensemble-learning)
